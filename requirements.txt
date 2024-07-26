@@ -1,0 +1,6 @@
+dateparser==0.7.6
+Flask==3.0.3
+pandas==2.0.3
+pytz==2023.3.post1
+spacy==3.7.5
+transformers==4.42.3
